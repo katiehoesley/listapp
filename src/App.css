@@ -1,0 +1,23 @@
+#content {
+    border-style: solid;
+    border-radius: 2%;
+    padding: 2%;
+    border-color: grey;
+    width: 50%; 
+    background-color: lightsalmon;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#app, #input  {
+    padding: 5%;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#button {
+    padding: 9px;
+    border: 2%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightsalmon;
+    color: white
+}
